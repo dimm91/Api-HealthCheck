@@ -20,7 +20,7 @@
     "HealthCheck.Sample": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "Health",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
